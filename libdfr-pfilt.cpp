@@ -4,8 +4,8 @@
 /*************************************************************************/
 
 #include <iostream>
-#include "../matrix/libdfr-matrix.h"
-#include "libdfr-rv.h"
+#include "../libdfr-matrix/libdfr-matrix.h"
+#include "../libdfr-rv/libdfr-rv.h"
 #include "libdfr-pfilt.h"
 
 // constructor
